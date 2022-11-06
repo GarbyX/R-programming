@@ -1,0 +1,2 @@
+ages <- c("Chima"=15, "Kelvin"=42, "Amaka"=18) 
+print(ages["Amaka"])  
