@@ -1,4 +1,4 @@
 x <- c(24, 28, 32, 14, 6)
 print(sum(x)) 
 
-# Outputs: [1] 
+# Outputs: [1] 104
